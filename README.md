@@ -6,7 +6,11 @@ With our ramp, it's a 4 way, so first the robot will go at one side, and go over
 Then we have our tunnel where the robot has to go through. And after that it will have to go on the seesaw. Once it gets off the seesaw. It has to go on the ramp again, but on another side. Then going over it which is when the obstacke course stops
 
 How to run our Python Script:
-
+1. Connect your Basebot to the computer using the USB
+2. Open the VEX program
+3. Upload the python script to the basebot
+4. Place the Basbot at the course's starting line
+5. Click 'Run' in the VEX program of press the play button.
 
 What worked well, and what didn't:
 Our design process was quite easy, as our group was quick and efficient in our work. Finishing our plan in a day. And using the rest of the time to make our obstacles. Which we completed early.
